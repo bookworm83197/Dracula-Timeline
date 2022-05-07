@@ -7,7 +7,7 @@ https://github.com/liamcain/obsidian-periodic-notes#setting-up-your-first-calend
 https://github.com/coddingtonbear/obsidian-itinerary
 Template:
 
-#### Calendar View
+### Calendar View
 https://fullcalendar.io/docs/timegrid-view
 https://fullcalendar.io/docs/daygrid-view
 ```itinerary
@@ -29,3 +29,4 @@ tag:
 **Hotel Fortin Plaza**
 Address: Venus 118, Estrella, 68040 Oaxaca de Juárez, Oax., Mexico
 Phone: : +52 951 515 7777
+
