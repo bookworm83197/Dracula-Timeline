@@ -1,5 +1,5 @@
 ---
-tags: 
+tags: Day
 title: 
 summary: 
 ---

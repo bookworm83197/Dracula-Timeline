@@ -1,5 +1,5 @@
 ---
-tags: 
+tags: Week
 ---
 # Events
 ```itinerary
