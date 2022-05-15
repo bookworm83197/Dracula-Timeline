@@ -12,7 +12,7 @@ headerToolbar: false
 scrollTime: '08:00:00'
 slotDuration: '02:00:00'
 height: 300
-initialdate: {{date:YYYY-MM-DD}}
+initialDate: {{date:YYYY-MM-DD}}
 initialView: timeGridWeek
 
 ```
