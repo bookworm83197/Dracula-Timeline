@@ -1,7 +1,8 @@
 ---
-tags: Week
+tags: 
 title: Week
 ---
+# Week 
 Previous Week
 Next Week
 
@@ -36,7 +37,7 @@ allDay: false
 start: {{date:YYYY-MM-DD}}
 end: {{date:YYYY-MM-DD}}
 color: 
-tags:
+tag:
 - 
 ```
 
