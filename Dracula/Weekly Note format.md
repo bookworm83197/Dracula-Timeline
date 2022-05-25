@@ -1,6 +1,6 @@
 ---
 tags: 
-title: Week {{date:WW}}
+title: Week 
 ---
 # Week 
 Previous Week
