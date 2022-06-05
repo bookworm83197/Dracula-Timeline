@@ -42,4 +42,3 @@ Phone: : +52 951 515 7777
 _![:pleadcry:](https://cdn.discordapp.com/emojis/802002483152289822.gif?size=44&quality=lossless)_
 
 ## Natural Language Dates
-next week
