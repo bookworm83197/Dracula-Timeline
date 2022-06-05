@@ -6,6 +6,7 @@ https://github.com/liamcain/obsidian-periodic-notes#setting-up-your-first-calend
 ## Itinerary plugin
 https://github.com/coddingtonbear/obsidian-itinerary
 Template:
+v ONLY SHOWS ITINERARY FOR CURRENT WEEK
 ```itinerary
 slotLabelFormat: { hour: 'numeric', minute: '2-digit', omitZeroMinute: false, hour12: false }
 headerToolbar: False
@@ -13,7 +14,7 @@ scrollTime: '08:00:00'
 slotDuration: '01:00:00'
 height: 200
 allDaySlot: false
-initialdate: 2022-05-08
+initialdate: 
 initialView: listWeek
 ```
 ### Calendar View
@@ -42,3 +43,5 @@ Phone: : +52 951 515 7777
 _![:pleadcry:](https://cdn.discordapp.com/emojis/802002483152289822.gif?size=44&quality=lossless)_
 
 ## Natural Language Dates
+shift-enter to keep syntax
+Ex: @today --> [Today](2022-06-05)
