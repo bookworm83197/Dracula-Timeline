@@ -1,7 +1,9 @@
 ---
 tags: Navigation
-title: May
+title: Dracula Daily Chronology
 ---
+
+# Dracula Daily Chronology
 
 # May
 
@@ -25,6 +27,6 @@ Week 8 - [2022-W26](2022-W26.md)
 
 # July
 
-Week 9 -
+Week 9 - [2022-W27](2022-W27.md)
 
 Week 10 -
