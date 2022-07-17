@@ -1,0 +1,30 @@
+{
+  "collapse-filter": false,
+  "search": "-file:format -file:chronology",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:2022-W",
+      "color": {
+        "a": 1,
+        "rgb": 59898
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 0.804375,
+  "lineSizeMultiplier": 0.804375,
+  "collapse-forces": false,
+  "centerStrength": 0.752136752136752,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.7132754626224439,
+  "close": true
+}

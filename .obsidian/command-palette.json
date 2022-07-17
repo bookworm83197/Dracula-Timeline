@@ -1,0 +1,9 @@
+{
+  "pinned": [
+    "obsidian-linter:lint-file",
+    "obsidian-linter:lint-all-files",
+    "obsidian-style-settings:show-style-settings-leaf",
+    "editor:fold-all",
+    "graph:open-local"
+  ]
+}

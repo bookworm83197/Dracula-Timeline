@@ -1,7 +1,6 @@
-# to exclude Obsidian's settings (including plugin and hotkey configurations)
-.obsidian/
-
-# OR only to exclude workspace cache
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/hotkeys.json
 .obsidian/workspace
 
 # Add below lines to exclude OS settings and caches
