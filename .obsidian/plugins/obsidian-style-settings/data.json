@@ -31,5 +31,7 @@
   "shimmering-focus@@line-number-options": "dot-line-numbering",
   "shimmering-focus@@no-codeblock-line-numbers": true,
   "shimmering-focus@@show-titlebar": true,
-  "shimmering-focus@@show-titlebar-text": true
+  "shimmering-focus@@show-titlebar-text": true,
+  "obsidian-prism-theme@@color-schemes-lt": "pt-color-scheme-swan-lt",
+  "obsidian-prism-theme@@light-accent-color-preset": "pt-accent-color-aqua-lt"
 }
