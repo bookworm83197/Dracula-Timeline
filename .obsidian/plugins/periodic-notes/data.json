@@ -4,13 +4,13 @@
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
     "format": "",
-    "template": "Dracula/Daily note format.md",
+    "template": "Templates/Daily Note format.md",
     "folder": "Dracula",
     "enabled": true
   },
   "weekly": {
     "format": "",
-    "template": "Dracula/Weekly Note format.md",
+    "template": "Templates/Weekly Note format.md",
     "folder": "Dracula",
     "enabled": true
   },
