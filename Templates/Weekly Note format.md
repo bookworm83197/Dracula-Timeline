@@ -3,7 +3,7 @@ tags: POV
 title: Week 
 ---
 
-# Week 
+# Week <% tp.file.last_modified_date("YYYY-[W]WW") %>
 
 [Previous Week]({{date:gggg-[W]ww}}.md
 [Next Week]({{date:gggg-[W]ww}}.md
