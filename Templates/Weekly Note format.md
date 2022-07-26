@@ -3,10 +3,10 @@ tags: POV
 title: Week 
 ---
 
-# Week <% tp.file.last_modified_date("YYYY-[W]WW") %>
+# Week <% tp.date.now("WW",-119)%>
 
-[Previous Week]({{date:gggg-[W]ww}}.md
-[Next Week]({{date:gggg-[W]ww}}.md
+[Previous Week](<% tp.date.now("YYYY-[W]WW",)%>)
+[Next Week](<% tp.date.now("YYYY-[W]WW",+14)%>)
 
 # Events
 
