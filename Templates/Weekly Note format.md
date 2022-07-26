@@ -3,7 +3,7 @@ tags: POV
 title: Week 
 ---
 
-# Week
+# Week 
 
 [Previous Week]({{date:gggg-[W]ww}}.md
 [Next Week]({{date:gggg-[W]ww}}.md
