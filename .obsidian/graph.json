@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "-file:format -file:chronology",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
