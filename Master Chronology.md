@@ -1,3 +1,7 @@
+---
+tags: 
+title: Dracula Daily Chronology
+---
 p---
 tags: Navigation
 title: Dracula Daily Chronology
@@ -34,3 +38,5 @@ Week 10 -[2022-W28](2022-W28.md)
 Week 11 - [2022-W29](2022-W29.md)
 
 Week 12 - [2022-W30](2022-W30.md)
+
+Week 13 [2022-W31](2022-W31.md)

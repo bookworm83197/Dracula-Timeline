@@ -9,6 +9,22 @@ https://github.com/liamcain/obsidian-periodic-notes#setting-up-your-first-calend
 
 ## Itinerary Plugin
 
+#### Character Itinerary Colors
+
+Jonathan: Navy
+
+Mina: DarkGreen
+
+Holmwood: MediumPurple
+
+Seward: DeepSkyBlue
+
+Quincey: SandyBrown
+
+Lucy: Crimson
+
+Captain: Gray
+
 https://github.com/coddingtonbear/obsidian-itinerary
 
 Template:
@@ -60,10 +76,3 @@ Address: Venus 118, Estrella, 68040 Oaxaca de Juárez, Oax., Mexico
 Phone: : +52 951 515 7777
 
 _![:pleadcry:](https://cdn.discordapp.com/emojis/802002483152289822.gif?size=44&quality=lossless)_
-
-## Natural Language Dates
-
-shift-enter to keep syntax
-
-Ex: @today --> [Today](2022-06-05
-
