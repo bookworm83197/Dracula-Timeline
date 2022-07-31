@@ -11,7 +11,42 @@
       "query": "file:2022-W",
       "color": {
         "a": 1,
-        "rgb": 59898
+        "rgb": 0
+      }
+    },
+    {
+      "query": "tag:#POV/Jonathan",
+      "color": {
+        "a": 1,
+        "rgb": 1326079
+      }
+    },
+    {
+      "query": "tag:#POV/Mina",
+      "color": {
+        "a": 1,
+        "rgb": 750885
+      }
+    },
+    {
+      "query": "tag:#POV/Seward",
+      "color": {
+        "a": 1,
+        "rgb": 4390880
+      }
+    },
+    {
+      "query": "tag:#POV/Lucy",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#POV/Captain",
+      "color": {
+        "a": 1,
+        "rgb": 16776960
       }
     }
   ],
@@ -22,9 +57,9 @@
   "lineSizeMultiplier": 0.804375,
   "collapse-forces": false,
   "centerStrength": 0.2548828125,
-  "repelStrength": 15.0142045454545,
+  "repelStrength": 12.9185267857143,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.36288736930121396,
+  "scale": 0.5087618855792627,
   "close": true
 }
