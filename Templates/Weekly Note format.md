@@ -21,7 +21,7 @@ initialDate: {{date:YYYY-MM-DD}}
 initialView: timeGridWeek
 ```
 
-## Day's Event
+## 
 
 ```itinerary-event
 title: 

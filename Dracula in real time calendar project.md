@@ -3,6 +3,9 @@ tags:
 title: Dracula in real time calendar project
 ---
 
+## Templater
+Tomorrow:  `[[<% tp.date.now("YYYY-MM-DD", 1) %>]]`
+
 ## Periodic Notes
 
 https://github.com/liamcain/obsidian-periodic-notes#setting-up-your-first-calendar-set
