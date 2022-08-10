@@ -6,6 +6,8 @@ title: Dracula in real time calendar project
 ## Templater
 Tomorrow:  `[[<% tp.date.now("YYYY-MM-DD", 1) %>]]`
 
+Uses [moment.js](https://momentjs.com/docs/#/displaying/) for time format
+
 ## Periodic Notes
 
 https://github.com/liamcain/obsidian-periodic-notes#setting-up-your-first-calendar-set
