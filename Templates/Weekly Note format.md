@@ -25,7 +25,7 @@ initialView: timeGridWeek
 
 ```itinerary-event
 title: 
-allDay: false
+allDay: true
 start: {{date:YYYY-MM-DD}}
 end: {{date:YYYY-MM-DD}}
 color: 
