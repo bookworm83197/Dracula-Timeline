@@ -1,6 +1,6 @@
 ---
 tags: POV
-title: 'Week <% tp.date.now("WW",-112)%>'
+title: Week <% tp.date.now("WW",-112)%>
 ---
 
 # Week <% tp.date.now("WW",-112)%>
@@ -21,7 +21,7 @@ initialDate: {{date:YYYY-MM-DD}}
 initialView: timeGridWeek
 ```
 
-## [<%tp.date.now("MMMM D",1)%>](<% tp.date.now("YYYY-MM-DD", 1) %>)
+## [<%tp.date.now("MMMM D")%>](<% tp.date.now("YYYY-MM-DD", 1) %>.md)
 
 ```itinerary-event
 title: 
