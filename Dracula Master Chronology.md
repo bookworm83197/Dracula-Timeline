@@ -1,8 +1,4 @@
 ---
-tags: 
-title: Dracula Daily Chronology
----
-p---
 tags: Navigation
 title: Dracula Daily Chronology
 ---
@@ -44,4 +40,5 @@ Week 13 - [2022-W31](2022-W31.md)
 # August
 
 Week 14 - [2022-W32](2022-W32.md)
+
 Week 15 - [2022-W33](2022-W33.md)
