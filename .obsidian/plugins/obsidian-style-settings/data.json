@@ -2,5 +2,8 @@
   "blue-topaz-theme@@font-monospace-theme": "'Victor Mono', Consolas, Monaco, 'Source Han Mono', 'Microsoft Yahei Mono', 'Segoe UI Emoji', 'Microsoft YaHei', 'Source Code Pro',  monospace",
   "obsidian-prism-theme@@color-schemes-lt": "pt-color-scheme-swan-lt",
   "obsidian-prism-theme@@light-accent-color-preset": "pt-accent-color-aqua-lt",
-  "shimmering-focus@@preset-color-scheme": "classic-colors"
+  "shimmering-focus@@preset-color-scheme": "classic-colors",
+  "shimmering-focus@@show-titlebar": true,
+  "shimmering-focus@@show-header-bar": true,
+  "shimmering-focus@@show-ribbons": true
 }
