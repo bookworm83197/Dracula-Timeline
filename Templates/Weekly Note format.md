@@ -21,7 +21,7 @@ initialDate: {{date:YYYY-MM-DD}}
 initialView: timeGridWeek
 ```
 
-## [<%tp.date.now("MMMM D")%>](<% tp.date.now("YYYY-MM-DD", 1) %>.md)
+## [<%tp.date.now("MMMM D")%>](<% tp.date.now("YYYY-MM-DD") %>.md)
 
 ```itinerary-event
 title: 
