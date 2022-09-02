@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-file:format -chronology ",
+  "search": "-file:format -chronology",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -57,9 +57,9 @@
   "lineSizeMultiplier": 0.804375,
   "collapse-forces": false,
   "centerStrength": 0.2548828125,
-  "repelStrength": 12.9185267857143,
+  "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.2588386562181656,
+  "scale": 0.3628873693012158,
   "close": true
 }
