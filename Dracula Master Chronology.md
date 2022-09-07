@@ -49,6 +49,8 @@ Week 17 - [2022-W35](2022-W35.md)
 
 Week 18 - [2022-W36](2022-W36.md)
 
-Week 19 - 
+# September
+
+Week 19 - [2022-W37](2022-W37.md)
 
 Week 20 -
