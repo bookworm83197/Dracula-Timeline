@@ -11,7 +11,7 @@
       "query": "file:2022-W",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 16766720
       }
     },
     {
@@ -46,7 +46,7 @@
       "query": "tag:#POV/Captain",
       "color": {
         "a": 1,
-        "rgb": 16776960
+        "rgb": 16733952
       }
     }
   ],
@@ -55,11 +55,11 @@
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 0.804375,
   "lineSizeMultiplier": 0.804375,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.345238095238095,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.36288736930121746,
+  "scale": 0.2588386562181669,
   "close": true
 }
