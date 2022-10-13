@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "15862fb51e9ab506",
+    "type": "split",
+    "children": [
+      {
+        "id": "5264ea3a6dc3cc95",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Dracula/2022-W41.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e6be531b762edb9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a479fcd56ba38134",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c384e6bb70231d4f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2517ea4b22865547",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Character/Dracula",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297
+  },
+  "right": {
+    "id": "24f1a8ea3ccf3186",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f4bd2919dfa2ca3",
+        "type": "tabs",
+        "dimension": 45.97701149425288,
+        "children": [
+          {
+            "id": "9657373fb6f7ac9d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "ab908b5cc9e55a81",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "76f3c9b808296a9e",
+        "type": "tabs",
+        "dimension": 54.02298850574712,
+        "children": [
+          {
+            "id": "6121258bbae4159c",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a74ab0fe241834e0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "55d8b78edbb32f73",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dracula/2022-W41.md"
+              }
+            }
+          },
+          {
+            "id": "0cf6dae5e03921be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dracula/2022-W41.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bc82d596c22dd586",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dracula/2022-W41.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 331
+  },
+  "active": "5264ea3a6dc3cc95",
+  "lastOpenFiles": [
+    "Dracula Master Chronology.md",
+    "Dracula/2022-W41.md",
+    "Dracula/2022-W42.md",
+    "Dracula/2022-W40.md",
+    "Dracula/2022-W39.md",
+    "Dracula/2022-W38.md",
+    "Dracula/2022-W37.md",
+    "Dracula/2022-W36.md",
+    "Dracula/2022-W35.md",
+    "Dracula in real time calendar project.md"
+  ]
+}
