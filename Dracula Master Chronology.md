@@ -71,4 +71,4 @@ Week 26 - [2022-W44](2022-W44.md)
 
 # November
 
-Week 27
+Week 27 - [2022-W45](2022-W45.md)
