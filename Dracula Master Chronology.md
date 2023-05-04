@@ -80,8 +80,8 @@ Week 28 - [2022-W46](2022-W46.md)
 
 ```dataview
 table without ID
-file.link as "Date", file.etags as "Tags"
-from "Dracula" AND !#Entry
+title as "Week", file.link as "Date", file.etags as "Tags"
+from "Weeks"
 sort name asc
 ```
 
