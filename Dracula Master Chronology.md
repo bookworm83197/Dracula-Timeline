@@ -5,6 +5,7 @@ title: Dracula Daily Chronology
 
 # Dracula Daily Chronology
 
+
 # May
 
 Week 1 - [2022-W19](2022-W19.md)
@@ -74,3 +75,10 @@ Week 26 - [2022-W44](2022-W44.md)
 Week 27 - [2022-W45](2022-W45.md)
 
 Week 28 - [2022-W46](2022-W46.md)
+
+```dataview
+table without ID
+file.name as "Entry", file.tags as "Tags"
+from "Dracula" AND #Entry
+sort name asc
+```
