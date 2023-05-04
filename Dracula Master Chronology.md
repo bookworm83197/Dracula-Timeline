@@ -82,6 +82,6 @@ Week 28 - [2022-W46](2022-W46.md)
 table without ID
 title as "Week", file.link as "Date", file.etags as "Tags"
 from "Weeks"
-sort name asc
+sort file.name asc
 ```
 
