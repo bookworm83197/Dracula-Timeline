@@ -78,7 +78,15 @@ Week 28 - [2022-W46](2022-W46.md)
 
 ```dataview
 table without ID
-file.name as "Entry", file.tags as "Tags"
+file.link as "Date", file.tags as "Tags"
+from "Dracula" AND !#Entry
+sort name asc
+```
+
+```
+```dataview
+table without ID
+file.day as "Date", file.tags as "Tags"
 from "Dracula" AND #Entry
 sort name asc
 ```
