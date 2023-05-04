@@ -6,7 +6,7 @@ title: Dracula Daily Chronology
 # Dracula Daily Chronology
 
 
-# May
+## May
 
 Week 1 - [2022-W19](2022-W19.md)
 
@@ -16,7 +16,7 @@ Week 3 - [2022-W21](2022-W21.md)
 
 Week 4 - [2022-W22](2022-W22.md)
 
-# June
+## June
 
 Week 5 - [2022-W23](2022-W23.md)
 
@@ -28,7 +28,7 @@ Week 8 - [2022-W26](2022-W26.md)
 
 Week 9 - [2022-W27](2022-W27.md)
 
-# July
+## July
 
 Week 10 -[2022-W28](2022-W28.md)
 
@@ -38,7 +38,7 @@ Week 12 - [2022-W30](2022-W30.md)
 
 Week 13 - [2022-W31](2022-W31.md)
 
-# August
+## August
 
 Week 14 - [2022-W32](2022-W32.md)
 
@@ -50,7 +50,7 @@ Week 17 - [2022-W35](2022-W35.md)
 
 Week 18 - [2022-W36](2022-W36.md)
 
-# September
+## September
 
 Week 19 - [2022-W37](2022-W37.md)
 
@@ -60,7 +60,7 @@ Week 21 - [2022-W39](2022-W39.md)
 
 Week 22 - [2022-W40](2022-W40.md)
 
-# October
+## October
 
 Week 23 - [2022-W41](2022-W41.md)
 
@@ -70,23 +70,18 @@ Week 25 - [2022-W43](2022-W43.md)
 
 Week 26 - [2022-W44](2022-W44.md)
 
-# November
+## November
 
 Week 27 - [2022-W45](2022-W45.md)
 
 Week 28 - [2022-W46](2022-W46.md)
 
+# Dataview
+
 ```dataview
 table without ID
-file.link as "Date", file.tags as "Tags"
+file.link as "Date", file.etags as "Tags"
 from "Dracula" AND !#Entry
 sort name asc
 ```
 
-```
-```dataview
-table without ID
-file.day as "Date", file.tags as "Tags"
-from "Dracula" AND #Entry
-sort name asc
-```
